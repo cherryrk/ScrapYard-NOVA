@@ -1,0 +1,42 @@
+/* This is a comment in CSS */
+
+/* Selects all <p> elements and sets their text color to blue */
+HTML{
+    background-color: rgb(50, 87, 27);
+}
+myButton {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* Selects an element with the id "header" and sets its background color to lightgray */
+#header {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+/* Selects all elements with the class "highlight" and sets their font weight to bold */
+.highlight {
+    font-weight: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Selects all <a> elements and removes the underline */
+a {
+    text-decoration: none;
+}
+
+/* Selects all <div> elements and sets their margin and padding */
+div {
+    margin: 10px;
+    padding: 100px;
+    text-align: center;
+}
